@@ -1,5 +1,5 @@
 {
-  "name": "boilerplate",
+  "name": "react-time",
   "version": "1.0.0",
   "description": "Simple react app",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
   "author": "Tanner Woodworth",
-  "license": "GNU",
+  "license": "GPL",
   "dependencies": {
     "axios": "^0.9.1",
     "express": "^4.13.4",

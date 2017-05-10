@@ -1,1 +1,3 @@
-# Boilerplate React App
+# reactTime
+
+Timer and Stopwatch built with react
