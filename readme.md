@@ -7,13 +7,15 @@ Make sure you have node installed with
 
 	node -v
 
-
 Install required node modules by running the following (you may need `sudo`)
 
 	npm install
 
+You may need to run webpack using 
 
-Start Express server by running the following command in the root folder
+	webpack
+
+Start Express server by running the following command in the root folder (will run at http://localhost:3000/)
 
 	node server.js
 
